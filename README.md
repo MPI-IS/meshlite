@@ -36,7 +36,7 @@ You can install the package directly from the .whl binary files instead of compi
 source. The wheels (.whl files) are located in the downloads folder of the repository:
 
 ```
-pip install --find-links=downloads psbody-meshlite
+pip install --find-links=download psbody-meshlite
 ```
 
 ## Install from source
