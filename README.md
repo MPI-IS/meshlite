@@ -8,9 +8,9 @@ This package is being provided as an accessory for visualizing, editing and savi
 our body, hands and face models, namely SMPL, MANO and FLAME. To learn more about these models,
 please visit the model websites:
 
-- http://smpl.is.tue.mpg
-- http://mano.is.tue.mpg
-- http://flame.is.tue.mpg
+- http://smpl.is.tue.mpg.de
+- http://mano.is.tue.mpg.de
+- http://flame.is.tue.mpg.de
 
 Please see the accompanying LICENSE.txt file for licensing and contact information. You must agree to the
 license terms before using this package.
